@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "noImplicitAny": false,m r
     "target": "es5",
     "strict": true,
     "module": "es2015",
